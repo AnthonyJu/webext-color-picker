@@ -14,10 +14,7 @@
 
 <p align="center">
 <img width="655" src="https://raw.githubusercontent.com/AnthonyJu/image/main/color-picker/popup.png"><br/>
-<br/>
 <img width="655" src="https://raw.githubusercontent.com/AnthonyJu/image/main/color-picker/picking.png"><br/>
-</p>
-<br/>
 <img width="655" src="https://raw.githubusercontent.com/AnthonyJu/image/main/color-picker/picked.png"><br/>
 </p>
 
