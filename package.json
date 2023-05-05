@@ -1,10 +1,10 @@
 {
   "name": "color-picker",
   "displayName": "Color Picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "packageManager": "pnpm@7.8.0",
-  "description": "[description]",
+  "description": "不仅仅是在页面, 你可以在任何地方进行取色, Not only the page, you can color anywhere.",
   "scripts": {
     "dev": "npm run clear && cross-env NODE_ENV=development run-p dev:*",
     "dev:prepare": "esno scripts/prepare.ts",
