@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-你可以在电脑的任何地方使用它，不仅仅局限于浏览器。
+不仅仅是在页面, 你可以在任何地方进行取色, Not only the page, you can color anywhere.
 </p>
 
 <br/>
