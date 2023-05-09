@@ -3,9 +3,9 @@
 <p align='center'>一个受 Vite 支持的 浏览器扩展 颜色选择器。你可以在电脑的任何地方使用它，不仅仅局限于浏览器。</p>
 
 <p align="center">
-<img width="655" src="https://raw.githubusercontent.com/AnthonyJu/image/main/color-picker/popup.png"><br/>
-<img width="655" src="https://raw.githubusercontent.com/AnthonyJu/image/main/color-picker/picking.png"><br/>
-<img width="655" src="https://raw.githubusercontent.com/AnthonyJu/image/main/color-picker/picked.png"><br/>
+<img width="655" src="https://raw.githubusercontent.com/AnthonyJu/static/main/color-picker/popup.png"><br/>
+<img width="655" src="https://raw.githubusercontent.com/AnthonyJu/static/main/color-picker/picking.png"><br/>
+<img width="655" src="https://raw.githubusercontent.com/AnthonyJu/static/main/color-picker/picked.png"><br/>
 </p>
 
 ## 使用
