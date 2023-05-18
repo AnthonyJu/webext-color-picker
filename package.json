@@ -1,7 +1,7 @@
 {
   "name": "color-picker",
   "displayName": "Color Picker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "packageManager": "pnpm@7.8.0",
   "description": "不仅仅是在页面, 你可以在任何地方进行取色, Not only the page, you can color anywhere.",
