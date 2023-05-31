@@ -12,7 +12,7 @@
 
 如果你正在使用Edge浏览器，你可以在 [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/color-picker/kdalomkmijnajhdenobbpjckagnmgmdg) 下载它。
 
-如果你使用的是其他浏览器，你可以[点击下载](https://raw.githubusercontent.com/AnthonyJu/static/main/color-picker/extsion.zip)，解压后，在浏览器的扩展页面，打开开发者模式，加载这个文件夹。
+如果你使用的是其他浏览器，你可以[点击下载](https://raw.githubusercontent.com/AnthonyJu/static/main/color-picker/extension.zip)，解压后，在浏览器的扩展页面，打开开发者模式，加载这个文件夹。
 
 你也可以clone这个仓库，运行：
     
